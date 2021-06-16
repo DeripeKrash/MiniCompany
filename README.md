@@ -1,8 +1,12 @@
 # Mini Company
 <div align="center"><img src="Screenshots/mini_company.png" /></div>
 <div align="center">
-    <p></p>
-    <img src="Screenshots/MenuScreen01.png" width=49% height=49% /> <img src="Screenshots/GameScreen01.png" width=49% height=49% /> <img src="Screenshots/GameScreen07.png" width=49% height=49% /> <img src="Screenshots/GameScreen09.png" width=49% height=49% /> <img src="Screenshots/GameScreen08.png" width=49% height=49% /> <img src="Screenshots/GameScreen06.png" width=49% height=49% />
+    <img src="Screenshots/MenuScreen01.PNG" width=49% height=49% />
+    <img src="Screenshots/GameScreen01.PNG" width=49% height=49% />
+    <img src="Screenshots/GameScreen07.png" width=49% height=49% />
+    <img src="Screenshots/GameScreen09.png" width=49% height=49% />
+    <img src="Screenshots/GameScreen08.png" width=49% height=49% />
+    <img src="Screenshots/GameScreen06.png" width=49% height=49% />
 </div>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=oyDPEQYcDxI"> Gameplay footage</a>
